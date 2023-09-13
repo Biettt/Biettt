@@ -1,16 +1,33 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Biettt.Biettt">
 
-<!--
-**Biettt/Biettt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Ol%C3%A1++pessoas!!%F0%9F%91%8B;Me+chamo+Gabriela+Marsiglia+)](https://github.com/Biettt)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# [![Github](https://img.shields.io/github/followers/Biettt?label=Follow&style=social)](https://github.com/Biettt) [![Github](https://img.shields.io/github/stars/Biettt?label=Star&style=social)](https://github.com/Biettt)
+ <div>
+  <a href="https://github.com/Biettt">
+  <img height="166em" src="https://github-readme-stats.vercel.app/api?username=Biettt&show_icons=true&theme=radical"/>
+  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biettt&layout=compact&langs_count=7&theme=radical"/>
+   <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=Biettt&layout=compact&langs_count=7&theme=redical"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Biettt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Biettt-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Biettt-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Biettt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Biettt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Biettt-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Biettt-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:gabrielamarsigliaf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/GabrielaMarsiglia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+ 
+</div>
+ 
+ ![snake gif](https://github.com/Biettt/Biettt/blob/output/github-contribution-grid-snake.svg)
