@@ -7,7 +7,6 @@
   <a href="https://github.com/Biettt">
   <img height="166em" src="https://github-readme-stats.vercel.app/api?username=Biettt&show_icons=true&theme=radical"/>
   <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biettt&layout=compact&langs_count=7&theme=radical"/>
-   <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=Biettt&layout=compact&langs_count=7&theme=redical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Biettt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
