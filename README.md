@@ -1,5 +1,8 @@
 ## Oii, eu sou a Gabriela Marsiglia, estudante de Engenharia de Software na FIAP.
 
+Aqui estão todos os meus projetos pessoais e extracurriculares.
+Sempre atualizando os projetinhos =)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Biettt.Biettt">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Ol%C3%A1++pessoas!!%F0%9F%91%8B;Me+chamo+Gabriela+Marsiglia+)](https://github.com/Biettt)
